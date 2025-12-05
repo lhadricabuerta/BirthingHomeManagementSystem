@@ -39,7 +39,7 @@ A comprehensive web-based management system designed for birthing homes and mate
 ### Staff Management
 ![Staff Management](img_lbh/admin/midwives_list.png)
 
-**[📸 See all screenshots here](img_lbh/)**
+*[View all screenshots →](img_lbh/)*
 
 ## 🛠️ Technologies Used
 
