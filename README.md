@@ -4,17 +4,6 @@ A comprehensive web-based management system designed for birthing homes and mate
 
 ## 🚀 Features
 
-## 📸 Screenshots
-
-### Login
-![Login](img_lbh/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin/dashboard.png)
-
-### Appointment Management
-![Appointments](screenshots/appointments.png)
-
 ### Core Modules
 - **Appointment Management** - Schedule, track, and manage patient appointments with calendar integration
 - **Patient Records System** - Secure storage and management of patient information and medical history
@@ -26,6 +15,17 @@ A comprehensive web-based management system designed for birthing homes and mate
 - Real-time appointment scheduling and conflict detection
 - Responsive design for desktop and mobile access
 - Secure authentication and data encryption
+
+## 📸 Screenshots
+
+### Login
+![Login](img_lbh/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](img_lbh/admin/dashboard.png)
+
+### Appointment Management
+![Appointments](img_lbh/staff/all_appointments.png)
 
 ## 🛠️ Technologies Used
 
