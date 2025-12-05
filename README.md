@@ -1,6 +1,6 @@
 # Birthing Home Management System
 
-A comprehensive web-based management system designed for birthing homes and maternal health facilities. This system streamlines appointment scheduling, patient management, inventory tracking, and automated patient communication through an intelligent chatbot integration.
+A comprehensive web-based management system designed for birthing homes and maternal health facilities. This system streamlines appointment scheduling, patient management, and inventory tracking.
 
 ## 🚀 Features
 
