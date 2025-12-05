@@ -4,6 +4,14 @@ A comprehensive web-based management system designed for birthing homes and mate
 
 ## 🚀 Features
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Appointment Management
+![Appointments](screenshots/appointments.png)
+
 ### Core Modules
 - **Appointment Management** - Schedule, track, and manage patient appointments with calendar integration
 - **Patient Records System** - Secure storage and management of patient information and medical history
