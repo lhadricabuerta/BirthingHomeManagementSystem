@@ -30,6 +30,15 @@ A comprehensive web-based management system designed for birthing homes and mate
 ### Appointment Management
 ![Appointments](img_lbh/staff/all_appointments.png)
 
+### Patient Records
+![Patient Records](img_lbh/staff/patient_records.png)
+
+### Inventory Management
+![Inventory Management](img_lbh/admin/inventory.png)
+
+### Staff Management
+![Staff Management](img_lbh/admin/midwives_list.png)
+
 ## 🛠️ Technologies Used
 
 ### Backend
