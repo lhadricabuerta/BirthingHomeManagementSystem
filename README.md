@@ -13,7 +13,6 @@ A comprehensive web-based management system designed for birthing homes and mate
 ### Key Highlights
 - Role-based access control (Admin, Staff)
 - Real-time appointment scheduling and conflict detection
-- AI agent integration for intelligent patient responses
 - Responsive design for desktop and mobile access
 - Secure authentication and data encryption
 
