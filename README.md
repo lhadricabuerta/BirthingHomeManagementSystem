@@ -40,7 +40,7 @@ Before installation, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/BirthingHomeManagementSystem.git
+git clone https://github.com/lhadricabuerta/BirthingHomeManagementSystem.git
 ```
 
 ### 2. Install Dependencies
