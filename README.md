@@ -24,6 +24,9 @@ A comprehensive web-based management system designed for birthing homes and mate
 ### Admin Dashboard
 ![Admin Dashboard](img_lbh/admin/dashboard.png)
 
+### Staff Dashboard
+![Staff Dashboard](img_lbh/staff/dashboard.png)
+
 ### Appointment Management
 ![Appointments](img_lbh/staff/all_appointments.png)
 
