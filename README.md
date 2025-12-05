@@ -6,8 +6,11 @@ A comprehensive web-based management system designed for birthing homes and mate
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Login
+![Login](img_lbh/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin/dashboard.png)
 
 ### Appointment Management
 ![Appointments](screenshots/appointments.png)
